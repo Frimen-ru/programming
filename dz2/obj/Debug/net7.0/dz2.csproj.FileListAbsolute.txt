@@ -1,0 +1,14 @@
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\bin\Debug\net7.0\dz2.exe
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\bin\Debug\net7.0\dz2.deps.json
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\bin\Debug\net7.0\dz2.runtimeconfig.json
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\bin\Debug\net7.0\dz2.dll
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\bin\Debug\net7.0\dz2.pdb
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.AssemblyInfoInputs.cache
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.AssemblyInfo.cs
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.dll
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\refint\dz2.dll
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.pdb
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\dz2.genruntimeconfig.cache
+C:\Users\Алекс\Desktop\it\homework\homework\dz2\obj\Debug\net7.0\ref\dz2.dll
