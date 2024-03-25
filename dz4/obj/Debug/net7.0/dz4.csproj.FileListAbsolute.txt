@@ -1,0 +1,14 @@
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\bin\Debug\net7.0\dz4.exe
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\bin\Debug\net7.0\dz4.deps.json
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\bin\Debug\net7.0\dz4.runtimeconfig.json
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\bin\Debug\net7.0\dz4.dll
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\bin\Debug\net7.0\dz4.pdb
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.AssemblyInfoInputs.cache
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.AssemblyInfo.cs
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.dll
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\refint\dz4.dll
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.pdb
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\dz4.genruntimeconfig.cache
+C:\Users\Алекс\Desktop\it\homework\homework\dz4\obj\Debug\net7.0\ref\dz4.dll
